@@ -18,7 +18,9 @@ R-TYPE FINAL2 Ship mod.exeを実行して機体を編集します。
 
 クラウドファンディング機体は選択できないようにしています。
 
-これはクラウドファンディングした方のみが使えるべきであるためです。
-
 R-TYPE FINAL2 Ship mod.exeはゲームプログラムにアクセスするので管理者で実行します。
+
+項目によっては未実装のためプレイできません。フォースの未実装が多いです。
+
+C:\Users\XXX\Saved Games\RTypeFinal2\Saved\SaveGamesがセーブデータです。バックアップしておくべきでしょう。XXXはWindowsのユーザー名です。
 
