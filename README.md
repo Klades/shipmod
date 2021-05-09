@@ -24,3 +24,6 @@ R-TYPE FINAL2 Ship mod.exeはゲームプログラムにアクセスするので
 
 C:\Users\XXX\Saved Games\RTypeFinal2\Saved\SaveGamesがセーブデータです。バックアップしておくべきでしょう。XXXはWindowsのユーザー名です。
 
+■ビルド済みツール
+
+https://github.com/unvirus/shipmod/blob/master/shipmod_0501.zip
